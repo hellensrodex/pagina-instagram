@@ -1,8 +1,8 @@
 # Página de login do Instagram
 
-Página com Animação (https://hellensrodex.github.io/pagina-instagram)
+[Clique aqui](https://hellensrodex.github.io/pagina-instagram) para ver a página com animação
 
-Recriação da página de login do Instagram utilizando HTML e CSS com adição de algumas alterações pessoais.
+Recriando a página de login do Instagram utilizando HTML e CSS com adição de algumas alterações pessoais.
 
 
 
